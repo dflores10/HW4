@@ -1,0 +1,12 @@
+﻿body {font-family: "Book Antiqua",Calibri, Verdana;
+    background:#FAB571
+}
+h1{font-family: Calibri, Perpetua;
+	font-variant: small-caps;
+	text-decoration: underline;
+	}
+#LBNetCalculation {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
